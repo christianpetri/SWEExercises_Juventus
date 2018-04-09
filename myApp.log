@@ -1,0 +1,6 @@
+2018-03-27 21:22:03,459 DEBUG [main] Main [Main.java:16] Hello World
+2018-03-27 21:24:13,562 DEBUG [main] Main [Main.java:16] Hello World
+2018-03-27 21:25:57,061 WARN [main] Main [Main.java:16] Hello World
+2018-04-03 18:34:49,202 WARN [main] Main [Main.java:16] Hello World
+2018-04-04 17:33:28,125 WARN [main] Main [Main.java:13] Hello World
+2018-04-04 18:55:51,818 WARN [main] Main [Main.java:13] Hello World
