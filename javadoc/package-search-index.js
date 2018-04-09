@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"ch.juventus.java.javadoc"},{"l":"object"}]
